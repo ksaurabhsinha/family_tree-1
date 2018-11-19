@@ -1,6 +1,8 @@
 # Family Tree
 Containerized setup for REST API
 
+[![Build Status](http://iampirated.in/api/badges/ksaurabhsinha/family_tree-1/status.svg)](http://iampirated.in/ksaurabhsinha/family_tree-1)
+
 ## Technology included
 
 * [Nginx](http://nginx.org/)
